@@ -1,0 +1,1 @@
+export const GET_LATEST_RECIPES = 'GET_LATEST_RECIPES';
